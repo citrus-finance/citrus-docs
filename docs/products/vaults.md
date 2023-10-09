@@ -5,6 +5,8 @@ title: Vaults
 
 # Vaults
 
+Status: Live, working on V2
+
 We provide different set of vaults, the majority will be yield farming. Those vaults will be used by the lending platform for earn yield for its unused funds.
 
 Vault types:
