@@ -19,12 +19,12 @@ slug: /tokenomics
 Who       | Percentage | Vesting  |
 ----------|------------|----------|
 Devs      | 20%        | linearly over 4 years with full voting power
-Seed      | 10%        | first $1000 per investor not vested, rest linearly over 4 years with full voting power
-Advisors  | 1%         | linearly over 4 years with full voting power
-Airdrop   | 10% <table><tr><td>COMP</td><td>4%</td></tr><tr><td>RGT</td><td>2%</td></tr><tr><td>UMA</td><td>2%</td></tr><tr><td>Midas protocol</td><td>1%</td></tr><tr><td>DefiLlama</td><td>1%</td></tr></table>      | no vesting
+Seed      | TBD        | first $1000 per investor not vested, rest linearly over 4 years with full voting power
+Advisors  | TBD         | linearly over 4 years with full voting power
+Airdrop   | 10%       | no vesting
 Users     | 45%        | <table><tr><td>year 1</td><td>14.5%</td></tr><tr><td>year 2</td><td>7.3%</td></tr><tr><td>year 3 -> 8</td><td>3.6%</td></tr></table>
 Referrals | 5%         | <table><tr><td>year 1</td><td>1.6%</td></tr><tr><td>year 2</td><td>0.8%</td></tr><tr><td>year 3 -> 8</td><td>0.4%</td></tr></table>
-Treasury  | 9%        | TBD by token holders
+Treasury  | 20%        | TBD by token holders
 
 
 ## Treasury
