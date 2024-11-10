@@ -7,7 +7,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Citrus Finance',
-  tagline: 'Multi-chain lending platform',
+  tagline: 'Multi-chain All-in-One DeFi Platform',
   url: 'https://docs.citrus.finance',
   baseUrl: '/',
   onBrokenLinks: 'throw',
