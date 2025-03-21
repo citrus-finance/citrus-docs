@@ -34,6 +34,7 @@ const config = {
       /** @type {import('@docusaurus/preset-classic').Options} */
       ({
         docs: {
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
@@ -47,6 +48,48 @@ const config = {
     ],
   ],
 
+  plugins: [
+    [
+      '@docusaurus/plugin-client-redirects',
+      {
+        redirects: [
+          {
+            from: '/docs',
+            to: '/'
+          },
+          {
+            from: '/docs/products',
+            to: '/products'
+          },
+          {
+            from: '/docs/products/dex',
+            to: '/products/dex'
+          },
+          {
+            from: '/docs/products/dex-aggregator',
+            to: '/products/dex-aggregator'
+          },
+          {
+            from: '/docs/products/lending',
+            to: '/products/lending'
+          },
+          {
+            from: '/docs/products/stable',
+            to: '/products/stable'
+          },
+          {
+            from: '/docs/products/vault',
+            to: '/products/vault'
+          },
+          {
+            from: '/docs/tokenomics',
+            to: '/tokenomics'
+          },
+        ]
+      },
+    ],
+  ],
+
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
@@ -57,12 +100,6 @@ const config = {
           src: 'img/logo.png',
         },
         items: [
-          {
-            type: 'doc',
-            docId: 'citrus',
-            position: 'left',
-            label: 'Docs',
-          },
           {
             href: 'https://github.com/citrus-finance/citrus-docs',
             label: 'GitHub',
@@ -78,7 +115,7 @@ const config = {
             items: [
               {
                 label: 'Products',
-                to: '/docs/products',
+                to: '/products',
               },
             ],
           },
