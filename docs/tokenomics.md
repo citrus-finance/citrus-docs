@@ -39,11 +39,11 @@ All fees collected by Citrus products will be redirected to the Treasury. The Tr
 
 ## Sink and Faucet
 
-Citrus protocol aim is to support as many chains as possible, for this reason we decided to have our own stablecoin so we can apply a Sink and Faucet startegy when collecting fees and distribute earnings.
+Citrus protocol aim is to support as many chains as possible, for this reason we decided to have our own stablecoin so we can apply a Sink and Faucet strategy when collecting fees and distribute earnings.
 
 ### Sink
 
-Every Citrus stablecoin token we collect as fee will be burned. They will be removed from circulation so that they can be re-emited later on.
+Every Citrus stablecoin token we collect as fee will be burned. They will be removed from circulation so that they can be re-emitted later on.
 
 ### Faucet
 

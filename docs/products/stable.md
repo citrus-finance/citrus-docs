@@ -5,9 +5,9 @@ title: Stable
 
 # Stable
 
-The Citrus stablecoin is core to the ecosystem. It will be used to collect fees and distribute earnings. It's an over collaterised dollar-pegged stablecoin backed third-party stablecoins deposited into ERC4626 vaults.
+The Citrus stablecoin is core to the ecosystem. It will be used to collect fees and distribute earnings. It's an over-collateralized dollar-pegged stablecoin backed third-party stablecoins deposited into ERC4626 vaults.
 
-Whinin the ecosystem, its main goal is to be used to buyback tokens earned as fees from all the products. The reason we had to create our own token is so that we could make Citrus a multi-chain protocol as it will be burned as we earn fees and minted as we distribute earnings.
+Within the ecosystem, its main goal is to be used to buyback tokens earned as fees from all the products. The reason we had to create our own token is so that we could make Citrus a multi-chain protocol as it will be burned as we earn fees and minted as we distribute earnings.
 
 Outside the ecosystem it is a yield bearing stablecoin used to exchange goods and services.
 
@@ -32,8 +32,8 @@ None
 - Citrus Governance sets up vault for native minting
 - Citrus Manager changes native minting limits based on risks
 - Citrus Manager sets Stable yield based on yield from Vault
-- Citrus Governance sets up incentivised DEX pools
-- Citrus Manager cancels incentivised DEX pools
+- Citrus Governance sets up incentivized DEX pools
+- Citrus Manager cancels incentivized DEX pools
 - Citrus Governance allow Lending market to mint Stable
 - User can borrow Stable after depositing collateral
 

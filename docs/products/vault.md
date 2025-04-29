@@ -9,7 +9,7 @@ Vault is a code product of the ecosystem. The goal is to integrate it to most of
 
 The goal of the Vault product is to allow anyone to build their own vaults and present it to our users so they can deposit their funds on them. We intent to do that by providing building blocks that any third-party developer can use, ensuring as much flexibility as possible while managing risks.
 
-The first version of Vault will be solely a front-end interface interacting with highly trusted thrird-party ERC4626.
+The first version of Vault will be solely a front-end interface interacting with highly trusted third-party ERC4626.
 
 
 ### Status

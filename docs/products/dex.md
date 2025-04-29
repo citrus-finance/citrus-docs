@@ -22,7 +22,7 @@ The DEX is available and deployable on all standard EVM chains. Join us on [Disc
 
 #### Roadmap
 
-- Third-party protocol incentivises pool with their tokens
+- Third-party protocol incentives pool with their tokens
 - User sets up limit order
 - User to deposit into Autopool so that their liquidity is always in use
 - Citrus Governance set ups vault for unused funds / non active bins
@@ -37,7 +37,7 @@ None
 #### Future
 
 - Dex Aggregator:
-  - Uses DEX as liquitidy to swap tokens
+  - Uses DEX as liquidity to swap tokens
 - Stable:
   - Provide liquidity on chains with no native minting
 - Lending:

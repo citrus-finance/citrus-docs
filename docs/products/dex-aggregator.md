@@ -10,9 +10,9 @@ With the DEX aggregator our goal is to provide the best prices by using all the 
 
 ### Status
 
-We are working on our first iteration of the DEX aggregator, which will be a simple decentralised aggregator that will support all mojor DEXs.
+We are working on our first iteration of the DEX aggregator, which will be a simple decentralized aggregator that will support all major DEXs.
 
-For the next iteration, our goal will be to support more than just DEXs, we want to support ERC4626 vaults, Lending protocols and more. We will need to make the choice between a more centralised version where we do all the matching (like ParaSwap) or a decentralised version with third-party matchers (like CowSwap)
+For the next iteration, our goal will be to support more than just DEXs, we want to support ERC4626 vaults, Lending protocols and more. We will need to make the choice between a more centralized version where we do all the matching (like ParaSwap) or a decentralized version with third-party matchers (like CowSwap)
 
 
 ### Features
@@ -43,4 +43,4 @@ None
 - Lending:
   - Used by Lending as a Price Oracle (TBD)
 DEX:
-  - Liquididy source
+  - Liquidity source
